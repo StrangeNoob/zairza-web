@@ -17,7 +17,7 @@ Follow these steps to get the api running using npm
 1. Install these dependencies if you don't already have them
    - [Firebase](https://firebase.google.com/docs/web/setup) 
    - [MongoDB](https://docs.mongodb.com/manual/administration/install-community/)
-   - [Nodejs](https://nodejs.org/en/)<br>
+   - [Nodejs v14](https://nodejs.org/en/)<br>
    <strong>Note:</strong><em>If you do not have MongoDB on your own system, you can proceed with the connection string. Please ensure the right access permissions and firewall openings for the VM/server where the MongoDB is hosted.</em>
 2. Clone this repo to your local machine
 
